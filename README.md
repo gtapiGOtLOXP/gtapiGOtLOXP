@@ -18,7 +18,7 @@
 
 - 🖥️ [Lunex](https://github.com/gtapiGOtLOXP/Project-Lunex) A (WIP) Counter Strike: Source cheat app written in C++.
 - 🤖 [Rinjecto](https://github.com/gtapiGOtLOXP/Rinjecto) A Windows Injector written in C.
-- 🩸 [BLEeding](https://github.com/gtapiGOtLOXP/BLEeding) Bluetooth/BLE jamming, signal inhibition, DoS and DeAuth attack.
+- 🩸 [BLEeding](https://github.com/gtapiGOtLOXP/BLEeding) A tool that allows you to spam Discord users and (in the future updates) servers.
 - 🎮 [CloK](https://github.com/gtapiGOtLOXP/clok) A simple and minimalist games for pyhton/html.
 
 <h2 align="center">🌱 My Skills</h2>
