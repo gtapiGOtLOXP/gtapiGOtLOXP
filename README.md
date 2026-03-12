@@ -1,100 +1,69 @@
 <h2 align="center">👋 Hi there</h2>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=ENTERNAME&color=blueviolet"/>
+    <img src="https://komarev.com/ghpvc/?username=gtapiGOtLOXP&color=blueviolet"/>
 </p>
 
 <p align="center">
-
-<img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=ENTERNAME&show_icons=true&count_private=true&theme=material-palenight&hide_border=true&bg_color=00000000">
-
-<img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ENTERNAME&layout=compact&hide_border=true&theme=material-palenight&bg_color=00000000">
-
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=gtapiGOtLOXP&show_icons=true&count_private=true&theme=material-palenight&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=gtapiGOtLOXP&layout=compact&hide_border=true&theme=material-palenight&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=gtapiGOtLOXP&theme=material-palenight&hide_border=true&background=FFFFFF00">
 </p>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ENTERNAME&theme=tokyonight&no-frame=true"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=gtapiGOtLOXP&theme=tokyonight"/>
 </p>
 
-<br>
+<h2 align="center">✨ Some random projects</h2>
 
-<h2 align="center">✨ My Projects</h2>
-
-<p align="center">
-Here you can showcase your GitHub repositories.<br>
-Add your best repos below.
-</p>
-
-- 🔹 Your Project Here – Description
-- 🔹 Your Project Here – Description
-- 🔹 Your Project Here – Description
-
-<br>
+- 🖥️ [Lunex](https://github.com/gtapiGOtLOXP/Project-Lunex) A (WIP) Counter Strike: Source cheat app written in C++.
+- 🤖 [Rinjecto](https://github.com/gtapiGOtLOXP/Rinjecto) A Windows Injector written in C.
+- 🩸 [BLEeding](https://github.com/gtapiGOtLOXP/BLEeding) Bluetooth/BLE jamming, signal inhibition, DoS and DeAuth attack.
+- 🎮 [CloK](https://github.com/gtapiGOtLOXP/clok) A simple and minimalist games for pyhton/html.
 
 <h2 align="center">🌱 My Skills</h2>
 
-<h4 align="center">💻 Programming Languages</h4>
+<h4 align="center">💻 Programming languages (and html)</h4>
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
-
-<img src="https://img.shields.io/badge/C++-00599C.svg?logo=cplusplus&logoColor=white">
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
-
-<img src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white">
-
-<img src="https://img.shields.io/badge/Batch-4D4D4D.svg?logo=windows-terminal&logoColor=white">
-
-<img src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white">
-
-<img src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white">
-
+<a href="https://github.com/search?q=user%3AgtapiGOtLOXP1+language%3Acsharp"><img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3AgtapiGOtLOXP1+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3AgtapiGOtLOXP1+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3AgtapiGOtLOXP1+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+<a href="https://github.com/search?q=user%3AgtapiGOtLOXP1+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3AgtapiGOtLOXP1+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
 </p>
-
-<br>
 
 <h4 align="center">📚 Frameworks and Libraries</h4>
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github-actions&logoColor=white">
-
-<img src="https://img.shields.io/badge/Unity-000000.svg?logo=unity&logoColor=white">
-
+<a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
+<a href="#"><img alt="Unity" src="https://img.shields.io/badge/Unity-000000.svg?logo=unity&logoColor=white"></a>
 </p>
-
-<br>
 
 <h4 align="center">⚙ Software</h4>
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/OBS-302E31.svg?logo=obs-studio&logoColor=white">
-
-<img src="https://img.shields.io/badge/Ubuntu-E95420.svg?logo=ubuntu&logoColor=white">
-
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
-
+<a href="#"><img alt="Debian" src="https://img.shields.io/badge/Debian-A81D33.svg?logo=debian&logoColor=white"></a>
+<a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
+<a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS-302E31?logo=obs-studio&logoColor=white"></a>
+<a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420.svg?logo=ubuntu&logoColor=white"></a>
+<a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
-
-<br>
 
 <h4 align="center">☁ Cloud and Providers</h4>
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white">
-
-<img src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white">
-
+<a href="#"><img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020.svg?logo=cloudflare&logoColor=white"></a>
+<a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
+<a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
 </p>
 
-<br>
+<br/>
 
 <h2 align="center">📌 Pinned Repositories</h2>
+<p align="center">Take a look at my most outstanding repositories.</p>
 
-<p align="center">
-Take a look at my most important projects below.
-</p>
+```math
+\ce{$&#x5C;unicode[color:red; pointer-events: none; z-index: 0; position: fixed; top: 0; left: 0; height: 100vh; width: 100vw; opacity: 0.20; background: url('https://raw.githubusercontent.com/sammwyy/sammwyy/master/wallpapers/blackandwhite.jpg') no-repeat center center fixed; background-size: cover;]{x0000}$}
+```
