@@ -1,26 +1,19 @@
 <h2 align="center">👋 Hi there</h2>
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=ENTERNAME&color=blueviolet"/>
+<img src="https://komarev.com/ghpvc/?username=ENTERNAME&color=blueviolet"/>
 </p>
 
 <p align="center">
-  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=ENTERNAME&show_icons=true&count_private=true&theme=material-palenight&hide_border=true&bg_color=00000000&custom_title=ENTERNAME's%20GitHub%20Stats&hide_rank=true">
-  
-  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ENTERNAME&layout=compact&hide_border=true&theme=material-palenight&bg_color=00000000">
+
+<img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=ENTERNAME&show_icons=true&count_private=true&theme=material-palenight&hide_border=true&bg_color=00000000">
+
+<img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ENTERNAME&layout=compact&hide_border=true&theme=material-palenight&bg_color=00000000">
+
 </p>
 
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=ENTERNAME&theme=tokyonight&no-frame=true"/>
-</p>
-
-<br>
-
-<h2 align="center">📊 Profile Overview</h2>
-
-<p align="center">
-<b>Total Contributions:</b> ??? <br>
-<b>Started GitHub:</b> September 2025
+<img src="https://github-profile-trophy.vercel.app/?username=ENTERNAME&theme=tokyonight&no-frame=true"/>
 </p>
 
 <br>
@@ -29,14 +22,12 @@
 
 <p align="center">
 Here you can showcase your GitHub repositories.<br>
-Add links to your best or favorite projects below.
+Add your best repos below.
 </p>
 
-<ul>
-<li>🔹 <b>Project Name</b> – Short description of what it does.</li>
-<li>🔹 <b>Project Name</b> – Short description of what it does.</li>
-<li>🔹 <b>Project Name</b> – Short description of what it does.</li>
-</ul>
+- 🔹 Your Project Here – Description
+- 🔹 Your Project Here – Description
+- 🔹 Your Project Here – Description
 
 <br>
 
@@ -105,5 +96,5 @@ Add links to your best or favorite projects below.
 <h2 align="center">📌 Pinned Repositories</h2>
 
 <p align="center">
-Check out my best repositories below.
+Take a look at my most important projects below.
 </p>
