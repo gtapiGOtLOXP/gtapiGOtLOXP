@@ -20,6 +20,7 @@
 - 🤖 [Rinjecto](https://github.com/gtapiGOtLOXP/Rinjecto) A Windows Injector written in C.
 - 🩸 [BLEeding](https://github.com/gtapiGOtLOXP/BLEeding) A tool that allows you to spam Discord users and (in the future updates) servers.
 - 🎮 [CloK](https://github.com/gtapiGOtLOXP/clok) A simple and minimalist games for python/html.
+- 🧠 [OvldrBot](https://github.com/gtapiGOtLOXP/ovldrbot) Powerful, secure, and Self-hosted vercel fake media gif and ip logger.
 
 <h2 align="center">🌱 My Skills</h2>
 
