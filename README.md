@@ -16,7 +16,7 @@
 
 <h2 align="center">✨ Some random projects</h2>
 
-- 🖥️ [Lunex](https://github.com/gtapiGOtLOXP/Project-Lunex) A (WIP) Counter Strike: Source cheat app written in C++.
+- 🖥️ [Lunex](https://github.com/gtapiGOtLOXP/Project-Lunex) A Counter Strike: Source/GO cheats made in Python.
 - 🤖 [Rinjecto](https://github.com/gtapiGOtLOXP/Rinjecto) A Windows Injector written in C.
 - 🩸 [Nebesnaya](https://github.com/gtapiGOtLOXP/Nebesnaya) A tool that allows you to spam Discord users and (in the future updates) servers.
 - 🎮 [CloK](https://github.com/gtapiGOtLOXP/clok) A simple and minimalist games for python/html.
