@@ -1,4 +1,9 @@
-<h2 align="center">👋 Hi there</h2>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=gtapiGOtLOXP&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Elite%20Full%20Stack%20Developer&descAlignY=55&descAlign=50" alt="
+gtapiGOtLOXP Header" />
+</div>
+
+<h2 align="center">Hi there</h2>
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=gtapiGOtLOXP&color=blueviolet"/>
