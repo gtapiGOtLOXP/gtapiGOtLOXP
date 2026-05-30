@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=gtapiGOtLOXP&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Elite%20Full%20Stack%20Developer&descAlignY=55&descAlign=50" alt="
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=gtapiGOtLOXP&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Fast%20learner&descAlignY=55&descAlign=50" alt="
 gtapiGOtLOXP Header" />
 </div>
 
